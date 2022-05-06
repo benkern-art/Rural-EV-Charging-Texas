@@ -27,9 +27,24 @@ Rural communities across America have extremely low EV adoption in comparison to
 
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/77947190/167062492-ea78f21d-697e-4a5a-b644-999d1c2d6c04.png" width="400", height = "400" />
-  <img src="https://user-images.githubusercontent.com/77947190/167062969-7ecd6792-14af-41c2-a0a2-3e89b789732c.png" width="400",height = "400"  /> 
+  <img src="https://user-images.githubusercontent.com/77947190/167062492-ea78f21d-697e-4a5a-b644-999d1c2d6c04.png" width="320", height = "320" />
+  <img src="https://user-images.githubusercontent.com/77947190/167062969-7ecd6792-14af-41c2-a0a2-3e89b789732c.png" width="320",height = "320"  /> 
 </p>
+
+## What is the definition of Rural? 
+
+The federal government uses two major definitions "rural", one created by the US census Bureau and the other from the Office of Management and Budget.
+
+Office of Management and Budget Definition: "Central counties with one or more urbanized areas; urbanized areas (described in the next section) are densely-settled urban entities with 50,000 or more people. Outlying counties that are economically tied to the core counties as measured by labor-force commuting. Outlying counties are included if 25 percent of workers living in the county commute to the central counties, or if 25 percent of the employment in the county consists of workers coming out from the central counties—the so-called "reverse" commuting pattern."
+
+Census Definition: "rural areas comprise open country and settlements with fewer than 2,500 residents. Urban areas comprise larger places and densely settled areas around them. Urban areas do not necessarily follow municipal boundaries. They are essentially densely settled territory as it might appear from the air. Most counties, whether metro or nonmetro, contain a combination of urban and rural populations"
+
+![Screen Shot 2022-05-05 at 8 57 13 PM](https://user-images.githubusercontent.com/77947190/167064569-457fda9c-711b-469b-8ff1-72d56f8346f0.png)
+
+
+
+
+
 
 ## 
 
