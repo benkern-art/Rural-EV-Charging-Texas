@@ -21,6 +21,18 @@ The lack of EV charging infrastructure in rural areas is still a significant bar
 <img src="https://www.ncelectriccooperatives.com/wp-content/uploads/2018/09/HoldenBeach1-e1536251816534.jpg" width="500" height="500" />
 
 
+## Analyzing the State of Rural EV Ownership in Texas Methodology 
+
+Rural communities across America have extremely low EV adoption in comparison to metropolitan areas. According to a report by Cobank, the majority of rural areas have EV registration rates of 0-0.5 % which equates to fewer than 5 registered EV's per 10,000 people whereas the rates range from 10-100 per 10,000 people in metro areas. The EESI report finds an average of 10-19 EV registered per 10,10000 people across the whole state of Texas. This number is an average across all counties in the state and doesn't give light to the regional variation in EV charging density and EV registration. Using time-series data from Atlas, an open-source vehicle registration database and charging station data from the U.S Department of Energy, I investigate the status of EV ownership and EV charging density in rural Texas. My analysis assesses EV charging needs in rural counties and makes policy recommendation to tackle the rural-urban EV ownership gap.
+
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/77947190/167062492-ea78f21d-697e-4a5a-b644-999d1c2d6c04.png" width="400", height = "400" />
+  <img src="https://user-images.githubusercontent.com/77947190/167062969-7ecd6792-14af-41c2-a0a2-3e89b789732c.png" width="400",height = "400"  /> 
+</p>
+
+## 
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
