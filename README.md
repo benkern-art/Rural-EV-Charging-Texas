@@ -59,7 +59,7 @@ The time series graph above shows the sum of EV Registrations snapshots across a
  <img src="https://user-images.githubusercontent.com/77947190/167276697-e539a241-9286-4e3b-8c88-37b5873300f3.png" width="400", height = "300" />
 </p>
 
-The time series graph showing EV registration snapshots in rural counties follows the same trend as EV registration snapshots in urban counties with similar peaks and dips. The biggest difference between the two time-series graphs is the sum of EV registration snapshots at different times. In urban counties, the total EV registration snapshots peak at 30,000 vehicles on the road around December 2020 and gradually decreases to zero whereas in rural counties, the total sum of EV snapshots peaks at 1200 vehicles, which is about 4% the total snapshots in urban counties recorded at that time. The noticable difference in EV registration snapshots reflects the fact that most EV drivers are concentrated in urban areas where population densities are higher and commuting between counties and cities is more frequent. Although obvious, the graph highlights the wide disparity in the number of EVs driven
+The time series graph showing EV registration snapshots in rural counties follows the same trend as EV registration snapshots in urban counties with similar peaks and dips. The biggest difference between the two time-series graphs is the sum of EV registration snapshots at different times. In urban counties, the total EV registration snapshots peak at 30,000 vehicles on the road around December 2020 and gradually decreases to zero whereas in rural counties, the total sum of EV snapshots peaks at 1200 vehicles, which is about 4% the total snapshots in urban counties recorded at that time. The noticable difference in EV registration snapshots reflects the fact that most EV drivers are concentrated in urban areas where population densities are higher and commuting between counties and cities is more frequent. Although obvious, the graph highlights the wide disparity in the number of EVs driven in urban vs rural counties. Given that the total number of vehicles driven in rural counties ranges from 200 to 1200, installing more than 1 or 2 stations in some of these counties might not be as optimal considering the average commuting distance of EV drivers.  
 
 However, it is interesting to note that in both graphs, there is a study decline in EV snapshots starting in January 2021 to June 2021.
 
@@ -67,7 +67,7 @@ However, it is interesting to note that in both graphs, there is a study decline
  <img src="https://user-images.githubusercontent.com/77947190/167277861-da1a0cdb-df51-47ac-a9ce-0a5f1dcc9046.png" width="500", height = "400" />
 </p>
 
-This time series graph 
+This time series graph shows the total EV registration snapshots across all counties at different snapshot dates. Unlike the other two graphs, the sum of snapshots are not aggregated by month and year but across day, month, and year. 
 
 
 <h2 align="center"> Choropleth Maps </h2> 
