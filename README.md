@@ -103,9 +103,10 @@ The EV Charging Station Map overlays the total EV registration snapshots by coun
 
 - EV registration is concentrated in four major counties that include the 4 biggest cities in Texas: Dallas, Austin, Houston, and San Antonio 
 - EV Registration Snapshots are also concentrated in the 4 largest counties by population
-- There is a significant rural-urban divide in EV charging density and EV registration snapshots as shown from the time-series and choropleth
-- EV charging is much more concentrated in counties with large cities whereas the count of  EV registration snapshots are high in counties neighboring large cities ( Austin-San Antonio) 
-- EV registration snapshots follow the same time-series trend (peak around Nov-Dec 2020) 
+- There is a significant rural-urban divide in EV charging density and EV registration snapshots as shown from the time-series and choropleth. Less than 5% of all EV Registration snapshots are recorded in rural counties compared urban counties
+- EV charging is much more concentrated in counties with large cities and the count of  EV registration snapshots are high in counties neighboring large cities ( Austin-San Antonio) 
+- EV registration snapshots follow the same time-series trend (peak around Nov-Dec 2020)
+- There are many Ev Charging Stations along ALternative Fuel Corridors connecting cities such as San Antonio to Austin and Austin to Dallas. However there aren't as many EV charging stations along Alternative Fuel Corridors connecting Dallas to Houston and there is a lack of EV charging stations in most areas of Northern and Western Texas, comprising the majority of rural areas in Texas  
 
 
 
