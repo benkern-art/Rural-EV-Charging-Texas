@@ -47,7 +47,7 @@ The Census definition refers to rural areas as areas comprising open country and
 This map, taken from the Texas Department of Health Services shows the spatial distribution of metro and rural counties in Texas. Travis County, home to the city of Austin and located slightly left of center,  is surrounded by counties designated as metro mostly North and South of Travis county. This in part reflects the fact that in outlying counties, at least 25% of the workers living in these areas commute to the "central" county for work.This designation of metropolitan and rural counties highlights labor-force commuting, which is vital in determining the optimal locations for EV charging stations. Other central counties such as Harris, home to San Antonio, has outlying metro counties on all sides, and from the map of EV charging density, most of the EV stations are clustered in Harris and in the surrounding metro counties. 
 
 <h2 align="center"> EV Registration Snapshots (AFDC Data) </h2>
-the following time-series line graphs shows EV registration snapshots at different times from 2019-2021. The snapshots represent the count of EV vehicles "on the road" are not an accurate count of the unique number of EV vehicles registered in the state. These multiple snapshots allows policy-makers to piece together changes in the market over time. 
+the following time-series line graphs shows EV registration snapshots at different times from 2019-2021. The snapshots represent the count of EV vehicles "on the road" are not an accurate count of the unique number of EV vehicles registered in the state. Furthermore, this dataset doesn't distinguish between "original" and "renewal" registrations. These multiple snapshots allows policy-makers to piece together changes in the market over time. 
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/77947190/167276687-fbc93a91-131f-4b6f-8e16-ae911bd4afa6.png" width="400", height = "300" />
@@ -61,74 +61,66 @@ The time series graph above shows the sum of EV Registrations snapshots across a
 
 The time series graph showing EV registration snapshots in rural counties follows the same trend as EV registration snapshots in urban counties with similar peaks and dips. The biggest difference between the two time-series graphs is the sum of EV registration snapshots at different times. In urban counties, the total EV registration snapshots peak at 30,000 vehicles on the road around December 2020 and gradually decreases to zero whereas in rural counties, the total sum of EV snapshots peaks at 1200 vehicles, which is about 4% the total snapshots in urban counties recorded at that time. The noticable difference in EV registration snapshots reflects the fact that most EV drivers are concentrated in urban areas where population densities are higher and commuting between counties and cities is more frequent. The graph highlights the wide disparity in the number of EVs driven in urban vs rural counties. Given that the total number of vehicles driven in rural counties ranges from 200 to 1200, installing more than 1 or 2 stations in some of these counties might not be as optimal considering the average commuting distance of EV drivers and the fact that less than 5% of EV drivers pass through rural counties. 
 
-However, it is interesting to note that in both graphs, there is a study decline in EV snapshots starting in January 2021 to June 2021.
-
 <p align="center">
  <img src="https://user-images.githubusercontent.com/77947190/167277861-da1a0cdb-df51-47ac-a9ce-0a5f1dcc9046.png" width="500", height = "400" />
 </p>
 
-This time series graph shows the total EV registration snapshots across all counties at different snapshot dates. Unlike the other two graphs, the sum of snapshots are not aggregated by month and year but across day, month, and year. 
-
+This time series graph shows the total EV registration snapshots across all counties at different snapshot dates. Unlike the other two graphs, the sum of snapshots are not aggregated by month and year but across day, month, and year. The graph highlights the lack of inconsistency with the EV registration snapshots over time. There are some noticable peaks in count of EVs on the road in June 2019, January 2020, May 2020,  and the largest peak in December 2020, where the count of EV snapshots surpassed 10,000 statewide. one reason for the  sudden spikes could be explained by the inconsistency in the snapshot count; There might simply have been more EVs on the road at locations where the data was being collected or more EVs on the road on a particular holiday. The time series graphs also don't appear to highlight any seasonal trends in EV registration. In fact, in all three time series graphs, there is a steady decline in EV registration snapshots starting in early January of 2021. Without seeing a consistent and steady increase in EVs on the road, expanding EV charging infrastructure at this time and especially in rural counties would not be the most optimal policy goal since the lack of EVs recorded in those areas would not service many people and would thus lead to poor cashflow. 
 
 <h2 align="center"> Choropleth Maps </h2> 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77947190/167276977-2eb6fe25-c9da-4648-aac5-859009819c8b.png" width="600", height = "600" />
-</p>
-
-
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/77947190/167276978-a200862e-763d-4f99-99f5-c5b4d09b0a52.png" 
    width="600",height = "600"  />
-</p>
+</p> 
+
+The choropleth map shows the geospatial distribution of the sum of EV registration snapshots in 2020. From the choropleth map, we can see that almost all of the EV registration snapshots are concentrated in a handful of urban counties that comprise the major cities in Texas. To the East, Harris County have the highest concentration of EV snapshots at roughly 30,000 . In central Texas, the counties containing the city of Austin and San Antonio also have high EV registration snapshots around 20,000-25,0000,  and to the North, the urban counties containing Forth Worth and Dallas have roughly 20,000 Ev registrationsnapshots counted in 2020. The map also shows the stark contrast in EV registration counts between urban and rural counties. Outside of the main cities and the outlying urban counities, there are almost no EV regisitration snapshots recorded. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77947190/167278355-9a74e90d-068a-4f9b-bb1d-d99d9dcc2de9.png" 
-   width="600",height = "600"  />
-</p>
+  <img src="https://user-images.githubusercontent.com/77947190/167315297-3b3e820e-436c-4e52-a640-bd6ad8042063.png" 
+   width="700",height = "700"  />
+</p> 
+
+The choropleth map showing the percentage change in the EV registration snapshots 2020-2021 show large increases in EVs in a handful of rural counties such as in Live Oak, the yellow shaded county which has a resident population of only 12,500. Other rural counties such as Refugio, Zabata, Shelby , and Pancia all had increases in EV registration snapshots over the 2020-2021 period. Largely populated urban counties in contrast had mostly negative or 0 increased in total EV registration snapshots. The increase in EV snapshots in these rural counties might only represent an increase in registrations of 1-8 EVs compared to 0 in the prior year. The positive percentage change in EV registration counts in these rural counties provides some evidence that EV drivers are indeed passing through some of these counties and would benefit from the installation of 1 or 2 EV chargers along these county's main highways. 
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77947190/167317760-3d03ace9-5aa3-4b70-a50b-f830175f0fc8.png" 
+   width="700",height = "700"  />
+</p> 
+
+This choropleth map gives the percentage change in EV registration snapshots counts from 2019-2020. The map shows a similar negative percentage change in most rural and urban counties from 2019 to 2020 with a few rural counties with positive percent changes in EV registration snapshots. The 2019-2020 map highlights the effect of the pandemic lockdown on the total count of EVs on the road which dropped sigficantly across almost all counties in 2020. 
+
  
-<h2 align="center"> Final Map </h2>
+ <h2 align="center"> Final Map </h2>
 
 
 ![EV_Charging_Station_map](https://user-images.githubusercontent.com/77947190/167279296-862070f2-7fd0-4a2b-96fc-5de6610b1333.png) 
 
+The EV Charging Station Map overlays the total EV registration snapshots by county, EV charging stations, highway networks, and AFDC-designated Alternative Fuel Corridors. The map shows concentration of charging stations and EV registrations in the 4 major metro areas of Dallas, San Antonio, Houston, and Dallas We also see EV stations in the urban counties surrounding the major cities and along the alternative fuel corridors connecting the cities. The alternative fuel corridors connecting San Antonio to Austin  seems to have the highest number of EV charging stations per square kilometer followed by the Alternative fuel corridor connecting Austin to Dallas. There are very few EV charging stations in Western rural Texas and far fewer EV stations connecting Dallas to cities farther North such as Amarillo. 
+
+ <h2 align="center"> Additional Investigations </h2> 
+ 
+A sophisticated network analysis could be performed to address the problem of 'range anxiety' and the lack of EV charging in rural counties. This network analysis would incorporates EV travel data on trip counts, travel times, costs, and distances to create a model that optimizes the placement of new EV Fast Charging Stations across Texas's extensive highway network. Optimality in this model would be defined as maximizing the share or number of long-distance (over 50 - miles, one-way) car trips that EV Drivers already demonstrate.  
+ 
+
 
  
+<h2 align="center"> Sources </h2> 
+
  
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://www.experian.com/blogs/insights/2019/08/king-road-breaking-popularity-pickup-trucks/
 
-### Markdown
+https://www.evgo.com/blog/demystifying-utility-easements/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://morningconsult.com/2021/03/22/electric-vehicles-direct-sales-dealerships-evs/
 
-```markdown
-Syntax highlighted code block
+https://www.eesi.org/articles/view/beyond-cities-breaking-through-barriers-to-rural-electric-vehicle-adoption
 
-# Header 1
-## Header 2
-### Header 3
+https://sso.cobank.com/documents/7714906/7715341/Electric-Vehicles-June2021.pdf/f36a0724-62da-97f4-1615-002b893e68b0?t=1643240393660
 
-- Bulleted
-- List
+https://www.caee.utexas.edu/prof/kockelman/public_html/TRB18LDEVCS.pdf 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-![EV_Charging_Station_map](https://user-images.githubusercontent.com/77947190/167278580-1a19ccc2-a8a6-4075-922d-ab363b664602.png)
+https://sso.cobank.com/web/cobank/knowledge-exchange/power-energy-and-water/co-op-evolution-bridging-the-rural-urban-divide-on-ev-adoption 
 
 
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benkern-art/Rural-EV-Charging-Texas/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
