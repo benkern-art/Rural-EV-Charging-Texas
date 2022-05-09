@@ -9,7 +9,7 @@
 
   The U.S has never been more serious about transitioning to EV on the roadway. Biden's ambitious Infrastructure bill allocates about $7.5 billion nationwide in funding to expand charging station network. At present, California captures 42% of the nationwide EV market with a  total of 425,300 light-duty EV registered 2020 alone according to DMV data. Texas, a state with a large car-centric economy and population, is 3rd in EV adoption nationwide, registering a mere 52,190 EVs in comparison. Yet despite these low numbers, the EV market in Texas is growing fast and will require additional funding to meet future charging needs.  
 
-  In Texas,  reaching 50% of on-road EV will mean mean building a network of fast-charging stations to meet growing demand. Figuring out the right amount of charging infrastructure to meet EV demand, especially in rural areas where market penetration isn't high, is a top priority for policy makers in Texas seeking to expand EV. Experts reason that faster-charging stations placed in strategic areas across the state would have the effect of inducing more EV demand. However, one of the biggest perceived challenges for consumers considering an EV is "Range Anxiety", a term relating to the fear of being stranded with nowhere to charge while embarking on longer commutes. Building an expansive network of charging stations, particularly in rural counties would ease range anxiety and help get millions more EV on the road. A 2018 report from an environmental research nonprofit, Environment Texas,  estimates that the State needs more than 14,000 charging stations to support the number of EV estimated to be on the road by 2030. Although most of the new charging infrastructure will be concentrated in major cities and suburban areas where EV ownership is higher, charging stations in rural areas are important in enabling long distance travel. 
+  In Texas,  reaching 50% of on-road EV would mean building a network of fast-charging stations to meet growing demand. Figuring out the right amount of charging infrastructure to meet EV demand, especially in rural areas where market penetration isn't high, is a top priority for policy makers in Texas seeking to expand EV. Experts reason that faster-charging stations placed in strategic areas across the state would have the effect of inducing more EV demand. However, one of the biggest perceived challenges for consumers considering an EV is "Range Anxiety", a term relating to the fear of being stranded with nowhere to charge while embarking on longer commutes. Building an expansive network of charging stations, particularly in rural counties,  would ease range anxiety and help get millions more EV on the road. A 2018 report from an environmental research nonprofit, Environment Texas,  estimates that the State needs more than 14,000 charging stations to support the number of EV estimated to be on the road by 2030. Although most of the new charging infrastructure will be concentrated in major cities and suburban areas where EV ownership is higher, charging stations in rural areas are important in enabling long distance travel. 
 
 
  <h2 align="center"> Why Rural Charging is Important </h2>
@@ -29,13 +29,13 @@ The goal of this project is to investigate the current state of EV vehicle regis
   <img src="https://user-images.githubusercontent.com/77947190/167062969-7ecd6792-14af-41c2-a0a2-3e89b789732c.png" width="320",height = "320"  /> 
 </p>
 
-The map on the left is a map visualization of public EV charging stations data from the Alternative Fuels Data Center (AFDC). The map on the right includes an AFDC map the national alternative fuel corridors, a national network of plug-in EV charging and other alternative fuel stations along national highway system corridors. The maps highlight the three main clusters of charging stations in Dallas in the far North, Austin to the center left and Houston on the center right. These are the three main cities where EV are mostly driven and where most charging infrastructure is prioritized. According to the Department of Energy, over 80% of EV charging happens at home and most US car owners only drive an estimated 31 miles a day - a distance that a typical EV can travel several times without needing to recharge. 
+The map on the left is a map visualization of public EV charging stations data from the Alternative Fuels Data Center (AFDC). The map on the right includes an AFDC map of the national alternative fuel corridors, a national network of plug-in EV charging and other alternative fuel stations along national highway system corridors. The maps highlight the three main clusters of charging stations in Dallas in the far North, Austin to the center left and Houston on the center right. These are the three main cities where EVs are mostly driven and where most charging infrastructure is prioritized. According to the Department of Energy, over 80% of EV charging happens at home and most US car owners only drive an estimated 31 miles a day - a distance that a typical EV can travel several times without needing to recharge. 
 
  <h2 align="center"> What is the definition of Rural?  </h2> 
 
 The federal government uses two major definitions "rural", one created by the US census Bureau and the other from the Office of Management and Budget.
 
-The Office of Management and Budget define rural areas as areas that don't have central counties with one or more urbanized areas. Urbanized areas are densely-settled urban entities with 50,000 or more people. Outlying counties that are economically tied to the core counties as measured by labor-force commuting. Outlying counties are included if 25 percent of workers living in the county commute to the central counties, or if 25 percent of the employment in the county consists of workers coming out from the central counties—the so-called "reverse" commuting pattern.
+The Office of Management and Budget define rural areas as areas that don't have central counties with one or more urbanized areas. Urbanized areas are densely-settled urban entities with 50,000 or more people. The definition of urban also includes outlying counties that are economically tied to the core counties as measured by labor-force commuting. Outlying counties are included if 25 percent of workers living in the county commute to the central counties, or if 25 percent of the employment in the county consists of workers coming out from the central counties—the so-called "reverse" commuting pattern.
 
 The Census definition refers to rural areas as areas comprising open country and settlements with fewer than 2,500 residents. Urban areas comprise larger places and densely settled areas around them. Urban areas do not necessarily follow municipal boundaries. They are essentially densely settled territory as it might appear from the air. Most counties, whether metro or nonmetro, contain a combination of urban and rural populations. 
 
@@ -47,7 +47,7 @@ This map, taken from the Texas Department of Health Services shows the spatial d
 
 <h2 align="center"> EV Registration Snapshots (AFDC Data) </h2>
 
-The following time-series line graphs shows EV registration snapshots at different times from 2019-2021. The snapshots represent the count of EV vehicles "on the road" are not an accurate count of the unique number of EV vehicles registered in the state. Furthermore, this dataset doesn't distinguish between "original" and "renewal" registrations. These multiple snapshots allows policy-makers to piece together changes in the market over time. 
+The following time-series line graphs shows EV registration snapshots at different times from 2019-2021. The snapshots representing the count of EV vehicles "on the road", are not an accurate count of the unique number of EV vehicles registered in the state. Furthermore, this dataset doesn't distinguish between "original" and "renewal" registrations. These multiple snapshots allows policy-makers to piece together changes in the market over time. 
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/77947190/167276687-fbc93a91-131f-4b6f-8e16-ae911bd4afa6.png" width="400", height = "300" />
@@ -65,7 +65,7 @@ The time series graph showing EV registration snapshots in rural counties follow
  <img src="https://user-images.githubusercontent.com/77947190/167277861-da1a0cdb-df51-47ac-a9ce-0a5f1dcc9046.png" width="500", height = "400" />
 </p>
 
-This time series graph shows the total EV registration snapshots across all counties at different snapshot dates. Unlike the other two graphs, the sum of snapshots are not aggregated by month and year but across day, month, and year. The graph highlights the lack of inconsistency with the EV registration snapshots over time. There are some noticable peaks in count of EVs on the road in June 2019, January 2020, May 2020,  and the largest peak in December 2020, where the count of EV snapshots surpassed 10,000 statewide. one reason for the  sudden spikes could be explained by the inconsistency in the snapshot count; There could have been more EVs on the road at locations where the data was being collected or more EVs on the road on a particular holiday. The time series graphs also don't appear to highlight any seasonal trends in EV registration. In fact, in all three time series graphs, there is a steady decline in EV registration snapshots starting in early January of 2021. Without seeing a consistent and steady increase in EVs on the road, expanding EV charging infrastructure at this time and especially in rural counties would not be the most optimal policy goal since the lack of EVs recorded in those areas would not service many people and would thus lead to poor cashflow. 
+This time series graph shows the total EV registration snapshots across all counties at different snapshot dates. Unlike the other two graphs, the sum of snapshots are not aggregated by month and year but across day, month, and year. The graph highlights the lack of inconsistency with the EV registration snapshots over time. There are some noticable peaks in count of EVs on the road in June 2019, January 2020, May 2020,  and the largest peak in December 2020, where the count of EV snapshots surpassed 10,000 statewide. one reason for the  sudden spikes could be explained by the inconsistency in the snapshot count; There could have been more EVs on the road at locations where the data was being collected or more EVs on the road on a particular holiday. The time series graphs also don't appear to highlight any seasonal trends in EV registration. In fact, in all three time series graphs, there is a steady decline in EV registration snapshots starting in early January of 2021. 
 
 <h2 align="center"> Choropleth Maps </h2> 
 
@@ -81,7 +81,7 @@ The choropleth map shows the geospatial distribution of the sum of EV registrati
    width="800",height = "800"  />
 </p> 
 
-The choropleth map showing the percentage change in the EV registration snapshots 2020-2021 show large increases in EVs in a handful of rural counties such as in Live Oak, the yellow shaded county which has a resident population of only 12,500. Other rural counties such as Refugio, Zabata, Shelby , and Pancia all had increases in EV registration snapshots over the 2020-2021 period. Largely populated urban counties in contrast had mostly negative or 0 increased in total EV registration snapshots. The increase in EV snapshots in these rural counties might only represent an increase in registrations of 1-8 EVs compared to 0 in the prior year. The positive percentage change in EV registration counts in these rural counties provides some evidence that EV drivers are indeed passing through some of these counties and would benefit from the installation of 1 or 2 EV chargers along these county's main highways. 
+The choropleth map showing the percentage change in the EV registration snapshots 2020-2021 show large increases in EVs in a handful of rural counties such as in Live Oak, the yellow shaded county which has a resident population of only 12,500. Other rural counties such as Refugio, Zabata, Shelby , and Pancia all had increases in EV registration snapshots over the 2020-2021 period. Largely populated urban counties in contrast had mostly negative or 0 increases in total EV registration snapshots. The increase in EV snapshots in these rural counties might only represent an increase in registrations of 1-8 EVs compared to 0 in the prior year. The positive percentage change in EV registration counts in these rural counties provides some evidence that EV drivers are indeed passing through some of these counties and would benefit from the installation of 1 or 2 EV chargers along these county's main highways. 
 
 
 <p align="center">
@@ -97,16 +97,16 @@ This choropleth map gives the percentage change in EV registration snapshots cou
 
 ![EV_Charging_Station_map](https://user-images.githubusercontent.com/77947190/167279296-862070f2-7fd0-4a2b-96fc-5de6610b1333.png) 
 
-The EV Charging Station Map overlays the total EV registration snapshots by county, EV charging stations, highway networks, and AFDC-designated Alternative Fuel Corridors. The map shows concentration of charging stations and EV registrations in the 4 major metro areas of Dallas, San Antonio, Houston, and Dallas. We also see EV stations in the urban counties surrounding the major cities and along the alternative fuel corridors connecting the cities. The alternative fuel corridors connecting San Antonio to Austin seems to have the highest number of EV charging stations per square kilometer followed by the Alternative fuel corridor connecting Austin to Dallas. There are very few EV charging stations in Western rural Texas and far fewer EV stations connecting Dallas to cities farther North such as Amarillo. 
+The EV Charging Station Map overlays the total EV registration snapshots by county, EV charging stations, highway networks, and AFDC-designated Alternative Fuel Corridors. The map shows concentration of charging stations and EV registrations in the 4 major metro areas of Dallas, San Antonio, Houston, and Dallas. We also see EV stations in the urban counties surrounding the major cities and along the alternative fuel corridors connecting the cities. The alternative fuel corridors connecting San Antonio to Austin seems to have the highest number of EV charging stations per square kilometer followed by the alternative fuel corridor connecting Austin to Dallas. There are very few EV charging stations in Western rural Texas and far fewer EV stations connecting Dallas to cities farther North such as Amarillo. 
 
 <h2 align="center"> Summary of Key Findings </h2> 
 
 - EV registration is concentrated in four major counties that include the 4 biggest cities in Texas: Dallas, Austin, Houston, and San Antonio 
 - EV Registration Snapshots are also concentrated in the 4 largest counties by population
 - There is a significant rural-urban divide in EV charging density and EV registration snapshots as shown from the time-series and choropleth. Less than 5% of all EV Registration snapshots are recorded in rural counties compared urban counties
-- EV charging is much more concentrated in counties with large cities and the count of  EV registration snapshots are high in counties neighboring large cities ( Austin-San Antonio) 
+- EV charging is much more concentrated in counties with large cities and the count of EV registration snapshots are high in counties neighboring large cities ( Austin-San Antonio) 
 - EV registration snapshots follow the same time-series trend (peak around Nov-Dec 2020)
-- There are many EV Charging Stations along ALternative Fuel Corridors connecting cities such as San Antonio to Austin and Austin to Dallas. However there aren't as many EV charging stations along Alternative Fuel Corridors connecting Dallas to Houston and there is a lack of EV charging stations in most areas of Northern and Western Texas, comprising the majority of rural areas in Texas  
+- There are many EV Charging Stations along alternative fuel corridors connecting cities such as San Antonio to Austin and Austin to Dallas. However there aren't as many EV charging stations along alternative fuel corridors connecting Dallas to Houston and there is a lack of EV charging stations in most areas of Northern and Western Texas, comprising the majority of rural areas in Texas.  
 
 
 
@@ -133,5 +133,22 @@ https://sso.cobank.com/documents/7714906/7715341/Electric-Vehicles-June2021.pdf/
 https://www.caee.utexas.edu/prof/kockelman/public_html/TRB18LDEVCS.pdf 
 
 https://sso.cobank.com/web/cobank/knowledge-exchange/power-energy-and-water/co-op-evolution-bridging-the-rural-urban-divide-on-ev-adoption 
+ 
+<h2 align="center"> Data used </h2> 
+
+- Alternative Fuel Corridor Shapefile
+
+https://www.arcgis.com/home/webmap/viewer.html?webmap=376dedd75b8347b8936abd70703cdb69&extent=-158.6002,16.7349,-56.1198,56.6162
+- EV Charging Station Data 
+
+https://afdc.energy.gov/stations#/find/nearest
+- State EV Registration Data 
+
+https://www.atlasevhub.com/materials/state-ev-registration-data/
+- Texas County Geojson 
+
+https://www.arcgis.com/home/item.html?id=9b2eb7d232584572ad53bad41c76b04d
+
+
 
 
