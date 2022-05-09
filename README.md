@@ -89,7 +89,7 @@ The choropleth map showing the percentage change in the EV registration snapshot
    width="800",height = "800"  />
 </p> 
 
-This choropleth map gives the percentage change in EV registration snapshots counts from 2019-2020. The map shows a similar negative percentage change in most rural and urban counties from 2019 to 2020 with a few rural counties with positive percent changes in EV registration snapshots. The 2019-2020 map highlights the effect of the pandemic lockdown on the total count of EVs on the road which dropped sigficantly across almost all counties in 2020. 
+This choropleth map gives the percentage change in EV registration snapshots counts from 2019-2020. The map shows a similar negative percentage change in most rural and urban counties from 2019 to 2020 with a few rural counties with positive percent changes in EV registration snapshots. The 2019-2020 map highlights the effect of the pandemic lockdown on the total count of EVs on the road which lead to the sigficantly drop in all EVs driven across most counties in 2020. 
 
  
  <h2 align="center"> Final Map </h2>
