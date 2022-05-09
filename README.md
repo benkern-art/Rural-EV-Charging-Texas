@@ -47,7 +47,8 @@ The Census definition refers to rural areas as areas comprising open country and
 This map, taken from the Texas Department of Health Services shows the spatial distribution of metro and rural counties in Texas. Travis County, home to the city of Austin and located slightly left of center,  is surrounded by counties designated as metro mostly North and South of Travis county. This in part reflects the fact that in outlying counties, at least 25% of the workers living in these areas commute to the "central" county for work.This designation of metropolitan and rural counties highlights labor-force commuting, which is vital in determining the optimal locations for EV charging stations. Other central counties such as Harris, home to San Antonio, has outlying metro counties on all sides, and from the map of EV charging density, most of the EV stations are clustered in Harris and in the surrounding metro counties. 
 
 <h2 align="center"> EV Registration Snapshots (AFDC Data) </h2>
-the following time-series line graphs shows EV registration snapshots at different times from 2019-2021. The snapshots represent the count of EV vehicles "on the road" are not an accurate count of the unique number of EV vehicles registered in the state. Furthermore, this dataset doesn't distinguish between "original" and "renewal" registrations. These multiple snapshots allows policy-makers to piece together changes in the market over time. 
+
+The following time-series line graphs shows EV registration snapshots at different times from 2019-2021. The snapshots represent the count of EV vehicles "on the road" are not an accurate count of the unique number of EV vehicles registered in the state. Furthermore, this dataset doesn't distinguish between "original" and "renewal" registrations. These multiple snapshots allows policy-makers to piece together changes in the market over time. 
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/77947190/167276687-fbc93a91-131f-4b6f-8e16-ae911bd4afa6.png" width="400", height = "300" />
@@ -101,7 +102,7 @@ The EV Charging Station Map overlays the total EV registration snapshots by coun
 
  <h2 align="center"> Additional Investigations </h2> 
  
-A sophisticated network analysis could be performed to address the problem of 'range anxiety' and the lack of EV charging in rural counties. This network analysis would incorporates EV travel data on trip counts, travel times, costs, and distances to create a model that optimizes the placement of new EV Fast Charging Stations across Texas's extensive highway network. Optimality in this model would be defined as maximizing the share or number of long-distance (over 50 - miles, one-way) car trips that EV Drivers already demonstrate.  
+In summary, the analysis provided presents a more descriptive approach to the problem of addressing EV charging needs in rural Texas. This doesn't provide clear directions on where to deploy new charging stations but instead, assess the state of EV adoption and EV charging in both rural and urban areas. A sophisticated network analysis could be performed to address the problem of 'range anxiety' and the lack of EV charging in rural counties. This network analysis would incorporates EV travel data on trip counts, travel times, costs, and distances to create a model that optimizes the placement of new EV Fast Charging Stations across Texas's extensive highway network. Optimality in this model would be defined as maximizing the share or number of long-distance (over 50 - miles, one-way) car trips that EV Drivers already demonstrate.  
  
 
 
